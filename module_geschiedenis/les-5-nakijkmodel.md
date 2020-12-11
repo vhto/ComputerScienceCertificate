@@ -40,3 +40,4 @@ while teller < 6:
 
 5: Fout, er moet waarde in de remove-code gegeven worden. 
 
+<img src="../../img/logoCSCert_10cm.jpg" align="right">
