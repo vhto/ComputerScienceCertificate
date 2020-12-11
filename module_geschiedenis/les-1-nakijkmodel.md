@@ -95,3 +95,4 @@ else:
   print('Hihihihi')
 ```
 
+<img src="../img/logoCSCert_10cm.jpg" align="right">
