@@ -5,9 +5,9 @@
 1/) en 2/)
 Met een variabele kan je een stuk tekst makkelijk van onderwerp laten veranderen. 
 Een variabele definieer je zo:
-`python'
+```python
 dier = 'Schildpad'
-...
+```
 Een variabele heeft een andere kleur dan tekst. 
 Een variabele heeft geen aanhalingstekens nodig
 Python gaat omhoog zoeken naar de betekenis van de variabele.
